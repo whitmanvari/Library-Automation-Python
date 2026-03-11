@@ -1,0 +1,1 @@
+#kitap ödünç alırken stokta var mı gibi kontrolü burada yapılacak

@@ -2,7 +2,7 @@ import sqlite3
 
 class Database:
     def __init__(self):
-        self.baglanti = sqlite3.connect("kutuphane.db")
+        self.baglanti = sqlite3.connect("DB/library.db")
         self.imlec=self.baglanti.cursor()
         self.tablolari_olustur() #sınıf çağırılır çağırılmaz tabloları oluşturmak için
 

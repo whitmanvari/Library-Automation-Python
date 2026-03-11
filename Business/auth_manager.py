@@ -1,0 +1,1 @@
+#kullanıcı giriş kuralları, şifre uzunluğu kontrolü gibi mantıksal işlemler burada yapılacak
